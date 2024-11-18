@@ -1,0 +1,812 @@
+fileFormatVersion: 2
+guid: c9a3f109d1897c34dbd792ec509471a3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5794941839796836875
+    second: Health_0000_Created-by-Adwit-Rahman-@adwitr_itch.io-_0
+  - first:
+      213: -2753252118773568897
+    second: Health_0000_Created-by-Adwit-Rahman-@adwitr_itch.io-_1
+  - first:
+      213: 12253466943084964
+    second: Health_0000_Created-by-Adwit-Rahman-@adwitr_itch.io-_2
+  - first:
+      213: 2043678376297013903
+    second: Health_0000_Created-by-Adwit-Rahman-@adwitr_itch.io-_3
+  - first:
+      213: 9095524427281810026
+    second: Health_0000_Created-by-Adwit-Rahman-@adwitr_itch.io-_4
+  - first:
+      213: 4610474651115221697
+    second: Health_0000_Created-by-Adwit-Rahman-@adwitr_itch.io-_5
+  - first:
+      213: -7193027599759409632
+    second: Health_0000_Created-by-Adwit-Rahman-@adwitr_itch.io-_6
+  - first:
+      213: -7564453308008794993
+    second: Health_0000_Created-by-Adwit-Rahman-@adwitr_itch.io-_7
+  - first:
+      213: -8913937871650668478
+    second: Health_0000_Created-by-Adwit-Rahman-@adwitr_itch.io-_8
+  - first:
+      213: 2185500709204208450
+    second: Health_0000_Created-by-Adwit-Rahman-@adwitr_itch.io-_9
+  - first:
+      213: 5899366447639009990
+    second: Health_0000_Created-by-Adwit-Rahman-@adwitr_itch.io-_10
+  - first:
+      213: -3739917000324202539
+    second: Health_0000_Created-by-Adwit-Rahman-@adwitr_itch.io-_11
+  - first:
+      213: 8228822210312182716
+    second: Health_0000_Created-by-Adwit-Rahman-@adwitr_itch.io-_12
+  - first:
+      213: -5044771055523070884
+    second: Health_0000_Created-by-Adwit-Rahman-@adwitr_itch.io-_13
+  - first:
+      213: -5877255002652092044
+    second: Health_0000_Created-by-Adwit-Rahman-@adwitr_itch.io-_14
+  - first:
+      213: 7977363018477241245
+    second: Health_0000_Created-by-Adwit-Rahman-@adwitr_itch.io-_15
+  - first:
+      213: 1154274515380963755
+    second: Health_0000_Created-by-Adwit-Rahman-@adwitr_itch.io-_16
+  - first:
+      213: -5942282195269196740
+    second: Health_0000_Created-by-Adwit-Rahman-@adwitr_itch.io-_17
+  - first:
+      213: -7194292985702687786
+    second: Health_0000_Created-by-Adwit-Rahman-@adwitr_itch.io-_18
+  - first:
+      213: 5229940767563677854
+    second: Health_0000_Created-by-Adwit-Rahman-@adwitr_itch.io-_19
+  - first:
+      213: 973616305490644521
+    second: Health_0000_Created-by-Adwit-Rahman-@adwitr_itch.io-_20
+  - first:
+      213: 2364056900734184413
+    second: Health_0000_Created-by-Adwit-Rahman-@adwitr_itch.io-_21
+  - first:
+      213: 5930155643188461211
+    second: Health_0000_Created-by-Adwit-Rahman-@adwitr_itch.io-_22
+  - first:
+      213: 798864090141781571
+    second: Health_0000_Created-by-Adwit-Rahman-@adwitr_itch.io-_23
+  - first:
+      213: -155946257769379811
+    second: Health_0000_Created-by-Adwit-Rahman-@adwitr_itch.io-_24
+  - first:
+      213: -6884021339536011987
+    second: Health_0000_Created-by-Adwit-Rahman-@adwitr_itch.io-_25
+  - first:
+      213: 4455267551342776926
+    second: Health_0000_Created-by-Adwit-Rahman-@adwitr_itch.io-_26
+  - first:
+      213: -376486054964128807
+    second: Health_0000_Created-by-Adwit-Rahman-@adwitr_itch.io-_27
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Health_0000_Created-by-Adwit-Rahman-@adwitr_itch.io-_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 24
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f56cd0891b349fa0800000000000000
+      internalID: -5794941839796836875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health_0000_Created-by-Adwit-Rahman-@adwitr_itch.io-_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 24
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7ae86b09cb7ac9d0800000000000000
+      internalID: -2753252118773568897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health_0000_Created-by-Adwit-Rahman-@adwitr_itch.io-_2
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 24
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a9d86896788b2000800000000000000
+      internalID: 12253466943084964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health_0000_Created-by-Adwit-Rahman-@adwitr_itch.io-_3
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 24
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f82a456c7aa9c5c10800000000000000
+      internalID: 2043678376297013903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health_0000_Created-by-Adwit-Rahman-@adwitr_itch.io-_4
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 24
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a624506c64bc93e70800000000000000
+      internalID: 9095524427281810026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health_0000_Created-by-Adwit-Rahman-@adwitr_itch.io-_5
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 24
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c27aa19442bbff30800000000000000
+      internalID: 4610474651115221697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health_0000_Created-by-Adwit-Rahman-@adwitr_itch.io-_6
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 24
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02e72c0228b3d2c90800000000000000
+      internalID: -7193027599759409632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health_0000_Created-by-Adwit-Rahman-@adwitr_itch.io-_7
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 21
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f847b186bc9a50790800000000000000
+      internalID: -7564453308008794993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health_0000_Created-by-Adwit-Rahman-@adwitr_itch.io-_8
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 24
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2404c5adbb45b4480800000000000000
+      internalID: -8913937871650668478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health_0000_Created-by-Adwit-Rahman-@adwitr_itch.io-_9
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 24
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24b2b74d055745e10800000000000000
+      internalID: 2185500709204208450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health_0000_Created-by-Adwit-Rahman-@adwitr_itch.io-_10
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 24
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ca91672782ced150800000000000000
+      internalID: 5899366447639009990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health_0000_Created-by-Adwit-Rahman-@adwitr_itch.io-_11
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 24
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5df3b3a9d45291cc0800000000000000
+      internalID: -3739917000324202539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health_0000_Created-by-Adwit-Rahman-@adwitr_itch.io-_12
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 24
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbb908db336a23270800000000000000
+      internalID: 8228822210312182716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health_0000_Created-by-Adwit-Rahman-@adwitr_itch.io-_13
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 24
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5cff5e047f5df9b0800000000000000
+      internalID: -5044771055523070884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health_0000_Created-by-Adwit-Rahman-@adwitr_itch.io-_14
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 24
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 479d880d6bbcf6ea0800000000000000
+      internalID: -5877255002652092044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health_0000_Created-by-Adwit-Rahman-@adwitr_itch.io-_15
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 24
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d938ca0466945be60800000000000000
+      internalID: 7977363018477241245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health_0000_Created-by-Adwit-Rahman-@adwitr_itch.io-_16
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 24
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba9819e5e8ec40010800000000000000
+      internalID: 1154274515380963755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health_0000_Created-by-Adwit-Rahman-@adwitr_itch.io-_17
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 24
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c34e9d3b3d5c88da0800000000000000
+      internalID: -5942282195269196740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health_0000_Created-by-Adwit-Rahman-@adwitr_itch.io-_18
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 7
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6db5b1185acb82c90800000000000000
+      internalID: -7194292985702687786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health_0000_Created-by-Adwit-Rahman-@adwitr_itch.io-_19
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 9
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9087fe2b6b749840800000000000000
+      internalID: 5229940767563677854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health_0000_Created-by-Adwit-Rahman-@adwitr_itch.io-_20
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 9
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92e4c441fdaf28d00800000000000000
+      internalID: 973616305490644521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health_0000_Created-by-Adwit-Rahman-@adwitr_itch.io-_21
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 9
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddb6215d931dec020800000000000000
+      internalID: 2364056900734184413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health_0000_Created-by-Adwit-Rahman-@adwitr_itch.io-_22
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 9
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9eb60f53252c4250800000000000000
+      internalID: 5930155643188461211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health_0000_Created-by-Adwit-Rahman-@adwitr_itch.io-_23
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 7
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34e67bc48a2261b00800000000000000
+      internalID: 798864090141781571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health_0000_Created-by-Adwit-Rahman-@adwitr_itch.io-_24
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 9
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d18ca9d64b7f5ddf0800000000000000
+      internalID: -155946257769379811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health_0000_Created-by-Adwit-Rahman-@adwitr_itch.io-_25
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 9
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2d4fb6901b0770a0800000000000000
+      internalID: -6884021339536011987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health_0000_Created-by-Adwit-Rahman-@adwitr_itch.io-_26
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 9
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e525c11ab3a44dd30800000000000000
+      internalID: 4455267551342776926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health_0000_Created-by-Adwit-Rahman-@adwitr_itch.io-_27
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 9
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d399fe7de376caf0800000000000000
+      internalID: -376486054964128807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
